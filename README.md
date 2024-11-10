@@ -33,6 +33,11 @@ My interests include the universe🌌, human society🌍, life🌱, anime.
 - Algorithms 🧠  
 - Unreal Engine 🎮
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🌍 Connect with Me
 [![Email](https://img.shields.io/badge/Email-qqdas522%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:qqdas522@gmail.com)
 
