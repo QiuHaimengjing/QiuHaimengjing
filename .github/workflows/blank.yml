@@ -14,4 +14,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@1.8.7
         with:
+          gh_token: ${{ secrets.BLOG_POST_TOKEN }}
           feed_list: https://blog.invictusqiu.top/atom.xml
