@@ -36,6 +36,10 @@ My interests include the universe🌌, human society🌍, life🌱, anime.
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [在线教育平台](http://example.com/2024/05/27/OnlineEducation/)
+- [将我的blog部署在云服务器ECS上](http://example.com/2023/04/15/DeployBlog/)
+- [中国大学生计算机设计大赛作品——电荷：正正子与负负美](http://example.com/2023/03/18/ElectricCharge-zhengfumei/)
+- [C语言课程设计-校园导游系统](http://example.com/2023/01/16/CampusGuideSystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌍 Connect with Me
