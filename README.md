@@ -1,15 +1,7 @@
 # 👋 Hey! Nice to see you.
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>嗨~我是邱海梦旌！成分复杂的互联网虫虫🌌，编程是兴趣🌍，想用代码做一些有意义的事🌱。</div>
-  <img src="https://github.com/QiuHaimengjing/ImageStorage/blob/main/blog/kiana.jpg" alt="图片描述" style="width: 200px; margin-left: 20px;">
-</div>
-<table style="width: 100%; border: none">
-  <tr>
-    <td>嗨</td>
-    <td><img src="https://github.com/QiuHaimengjing/ImageStorage/blob/main/blog/kiana.jpg" alt="CSS3 徽章" width="100"></td>
-  </tr>
-</table>
+嗨~我是邱海梦旌！成分复杂的互联网虫虫🌌，编程是兴趣🌍，想用代码做一些有意义的事🌱。
+
 ## 🛠️ Stacks
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
