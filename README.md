@@ -48,11 +48,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [《资本论》第三章绝对剩余价值的生产 读书笔记](https://blog.invictusqiu.top/2025/01/02/OnCapital_03/)
 - [《资本论》第二章货币和商品流通 读书笔记](https://blog.invictusqiu.top/2024/12/10/OnCapital_02/)
 - [《资本论》第一章商品 读书笔记](https://blog.invictusqiu.top/2024/12/09/OnCapital_01/)
 - [在线教育平台](https://blog.invictusqiu.top/2024/05/27/OnlineEducation/)
 - [将我的blog部署在云服务器ECS上](https://blog.invictusqiu.top/2023/04/15/DeployBlog/)
-- [中国大学生计算机设计大赛作品——电荷：正正子与负负美](https://blog.invictusqiu.top/2023/03/18/ElectricCharge-zhengfumei/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌍 Connect with Me
