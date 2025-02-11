@@ -1,6 +1,6 @@
 # 👋 Hey! Nice to see you.
 
-嗨~我是邱海梦旌！成分复杂的互联网虫虫🌌，编程是兴趣🌍，想用代码做一些有意义的事🌱。
+嗨~我是邱海梦旌！热爱编程的全栈开发，写一些自己想写的东西，用代码做一些有意义的事🌱。
 
 ## 🛠️ Stacks
 
@@ -43,7 +43,7 @@
 
 - Socioeconomics 📊  
 - Philosophy 📚  
-- Algorithms 🧠  
+- New Life 🌅  
 
 ## 📕 Latest Blog Posts
 
