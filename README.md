@@ -18,11 +18,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [《资本论》第三章绝对剩余价值的生产 读书笔记](https://blog.invictusqiu.top/2025/01/02/OnCapital_03/)
-- [《资本论》第二章货币和商品流通 读书笔记](https://blog.invictusqiu.top/2024/12/10/OnCapital_02/)
-- [《资本论》第一章商品 读书笔记](https://blog.invictusqiu.top/2024/12/09/OnCapital_01/)
-- [在线教育平台](https://blog.invictusqiu.top/2024/05/27/OnlineEducation/)
-- [将我的blog部署在云服务器ECS上](https://blog.invictusqiu.top/2023/04/15/DeployBlog/)
+- [马克思《资本论》第二卷第五期：固定资本、流动资本和周转周期](https://blog.invictusqiu.top/2025/06/04/Capital-09/)
+- [马克思《资本论》第二卷第四期：资本循环与流通时间](https://blog.invictusqiu.top/2025/06/03/Capital-08/)
+- [马克思《资本论》第二卷第三期：商品资本的循环](https://blog.invictusqiu.top/2025/06/02/Capital-07/)
+- [马克思《资本论》第二卷第二期：生产资本的循环](https://blog.invictusqiu.top/2025/06/01/Capital-06/)
+- [马克思《资本论》第二卷第一期：货币资本的循环](https://blog.invictusqiu.top/2025/05/31/Capital-05/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌍 Connect with Me
