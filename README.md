@@ -18,11 +18,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [马克思《资本论》第三卷第二期：竞争，平均利润率和规律内部矛盾的展开](https://blog.invictusqiu.top/2025/06/08/Capital-13/)
+- [马克思《资本论》第三卷第一期：剩余价值的颠倒形式与利润率](https://blog.invictusqiu.top/2025/06/07/Capital-12/)
+- [马克思《资本论》第二卷第七期—终：社会总资本的循环和流通](https://blog.invictusqiu.top/2025/06/06/Capital-11/)
+- [马克思《资本论》第二卷第六期：资本的周转与流通](https://blog.invictusqiu.top/2025/06/05/Capital-10/)
 - [马克思《资本论》第二卷第五期：固定资本、流动资本和周转周期](https://blog.invictusqiu.top/2025/06/04/Capital-09/)
-- [马克思《资本论》第二卷第四期：资本循环与流通时间](https://blog.invictusqiu.top/2025/06/03/Capital-08/)
-- [马克思《资本论》第二卷第三期：商品资本的循环](https://blog.invictusqiu.top/2025/06/02/Capital-07/)
-- [马克思《资本论》第二卷第二期：生产资本的循环](https://blog.invictusqiu.top/2025/06/01/Capital-06/)
-- [马克思《资本论》第二卷第一期：货币资本的循环](https://blog.invictusqiu.top/2025/05/31/Capital-05/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌍 Connect with Me
