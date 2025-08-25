@@ -18,11 +18,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [马克思《资本论》第三卷第六期—终：地租与金融资本主义](https://blog.invictusqiu.top/2025/07/28/Capital-17/)
-- [马克思《资本论》第三卷第五期：信用制度下的流通与金融资本](https://blog.invictusqiu.top/2025/07/27/Capital-16/)
-- [马克思《资本论》第三卷第四期：利润分割为利息 企业利润 生息资本](https://blog.invictusqiu.top/2025/07/16/Capital-15/)
-- [马克思《资本论》第三卷第三期：商品经营资本和货币经营资本](https://blog.invictusqiu.top/2025/07/15/Capital-14/)
-- [马克思《资本论》第三卷第二期：竞争，平均利润率和规律内部矛盾的展开](https://blog.invictusqiu.top/2025/06/08/Capital-13/)
+- [马克思《资本论》第三卷第六期—终：地租与金融资本主义](https://blog.qiuhaijun.com/2025/07/28/Capital-17/)
+- [马克思《资本论》第三卷第五期：信用制度下的流通与金融资本](https://blog.qiuhaijun.com/2025/07/27/Capital-16/)
+- [马克思《资本论》第三卷第四期：利润分割为利息 企业利润 生息资本](https://blog.qiuhaijun.com/2025/07/16/Capital-15/)
+- [马克思《资本论》第三卷第三期：商品经营资本和货币经营资本](https://blog.qiuhaijun.com/2025/07/15/Capital-14/)
+- [马克思《资本论》第三卷第二期：竞争，平均利润率和规律内部矛盾的展开](https://blog.qiuhaijun.com/2025/06/08/Capital-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌍 Connect with Me
