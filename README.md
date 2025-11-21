@@ -24,7 +24,3 @@
 - [马克思《资本论》第三卷第三期：商品经营资本和货币经营资本](https://blog.qiuhaijun.com/2025/07/15/Capital-14/)
 - [马克思《资本论》第三卷第二期：竞争，平均利润率和规律内部矛盾的展开](https://blog.qiuhaijun.com/2025/06/08/Capital-13/)
 <!-- BLOG-POST-LIST:END -->
-
-## 🌍 Connect with Me
-[![Email](https://img.shields.io/badge/Email-qqdas522%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:qqdas522@gmail.com)
-
